@@ -16,3 +16,7 @@ while (contador<salario.length){
     contador = contador + 1;
 }
 console.log ("Sua renda mensal é de " + somatorioSalario);
+
+
+let saldo = somatorioSalario-somatorio
+console.log ("seu saldo é de " + saldo)
